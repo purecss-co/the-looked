@@ -527,16 +527,6 @@ body {
   }
 
   &-2 {
-    width: 10vmin;
-    height: 10vmin;
-    background: $face-color;
-    top: 3vmin;
-    left: -2vmin;
-    transform: rotate(-40deg);
-    border-radius: 0 0 50% 0;
-  }
-
-  &-2 {
     z-index: 3;
     width: 2vmin;
     height: 10.4vmin;
