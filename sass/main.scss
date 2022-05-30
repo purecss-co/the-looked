@@ -313,8 +313,8 @@ body {
       background: $face-color;
       top: 4.4vmin;
       left: 7vmin;
-      border-radius: 0 0 100% 100%;
       transform: rotate(15deg) skewX(40deg);
+      border-radius: 0 0 100% 100%;
     }
 
     &::after {
@@ -669,7 +669,7 @@ body {
     background: $bg-color;
     top: -3.8vmin;
     left: 48.3vmin;
-    border-radius: 50%;
     transform: rotate(2deg);
+    border-radius: 50%;
   }
 }
